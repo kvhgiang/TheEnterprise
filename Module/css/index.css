@@ -1,0 +1,54 @@
+#container{
+	width: 1340px;
+	min-height: 800px;
+	margin: auto;
+	text-align: left;
+	font-size: 130%;
+}
+
+header{
+	height: 30px;
+	border-style: dotted;
+	border-width: 2px;
+}
+
+nav{
+	height: 40px;
+	border-style: dotted;
+	border-width: 2px;
+}
+
+#left{
+	float: left;
+	width: 200px;
+	min-height: 400px;
+	border-style: dotted;
+	border-width: 2px;
+	margin-top: 2px;
+	text-decoration: none;
+}
+
+#right{
+	float: right;
+	width: 200px;
+	min-height: 400px;
+	border-style: dotted;
+	border-width: 2px;
+	margin-top: 2px;
+}
+
+section{
+	width: 918px;
+	min-height: 400px;
+	margin: 5px 5px;
+	float: left;
+	border-style: dotted;
+	border-width: 2px;
+}
+
+footer{
+	height: 40px;
+	clear: both;
+	border-style: dotted;
+	border-width: 2px;
+}
